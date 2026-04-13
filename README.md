@@ -1,6 +1,7 @@
 <div align="center">
   <img src="Banner.png" alt="Vinamra Goel" width="100%" />
-
+  
+</div>
   # Hi, I'm Vinamra Goel 👋
 
   *B.Tech CSE Student · Designer · Developer*
@@ -9,7 +10,7 @@
 
   *I design with intention and build with purpose — blending clean aesthetics with functional tools to create experiences that make people more productive.*
 
-</div>
+
 
 ---
 
