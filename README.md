@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Banner.png" alt="Vinamra Goel" width="150" style="border-radius: 50%;" />
+  <img src="Banner.png" alt="Vinamra Goel" width="100%" />
 
   # Hi, I'm Vinamra Goel 👋
 
