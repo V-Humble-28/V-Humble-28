@@ -2,7 +2,8 @@
   <img src="Banner.png" alt="Vinamra Goel" width="100%" />
   
 </div>
-  # Hi, I'm Vinamra Goel 👋
+
+  <h2> Hi, I'm Vinamra Goel 👋</h2>
 
   *B.Tech CSE Student · Designer · Developer*
 
